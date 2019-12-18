@@ -1,5 +1,5 @@
 ## Staying At Home
 ### Choose An Event:
-#### Do Homework 
+#### [Do Homework]()
 ### OR
-#### Be Entertained
+#### [Be Entertained]()
