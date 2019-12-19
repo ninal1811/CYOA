@@ -1,4 +1,4 @@
-## Choose What You Would Like To Begin With:
+## START HERE:
 ```You Have A Free Day. ```
 
 ```What Would You Do?: ```

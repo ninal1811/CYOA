@@ -1,4 +1,4 @@
-# Being Entertained
+# GAMES
 ```Choose An Option:```
 ### [Board Games](boardgames.md)
 ### OR
