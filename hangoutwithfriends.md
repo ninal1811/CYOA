@@ -1,5 +1,2 @@
-## Hanging Out With Friends
-```Choose An Option```
-#### [Shopping](shopping.md)
-### OR
-#### [](.md)
+## YOU HAVE DIED BECAUSE YOU WASTED MONEY WITH YOUR FRIENDS!!!
+### [Start Over](home.md)
