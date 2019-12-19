@@ -1,5 +1,5 @@
-## Staying At Home
-```Choose An Event:```
-#### [Do Homework](dohomework.md)
+# Staying At Home
+```Choose An Option:```
+### [Do Homework](dohomework.md)
 ### OR
-#### [Be Entertained](beentertained.md)
+### [Be Entertained](beentertained.md)
