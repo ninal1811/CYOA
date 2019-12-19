@@ -1,4 +1,4 @@
-## Doing Homework
+# Doing Homework
 ```Choose An Option:```
 ### [Procrastinate](procrastinate.md)
 ### OR

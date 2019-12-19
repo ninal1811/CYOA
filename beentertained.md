@@ -1,4 +1,4 @@
-## Being Entertained
+# Being Entertained
 ```Choose An Option:```
 ### [Drama or Movies](drama-movies.md)
 ### OR
