@@ -4,6 +4,6 @@
 
 ```What Would You Do?: ```
 
-[Stay Home](stayhome.md)
+#### [Stay Home](stayhome.md)
 ### OR
-[Go Outside](gooutside.md)
+#### [Go Outside](gooutside.md)
