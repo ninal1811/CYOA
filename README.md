@@ -1,2 +1,4 @@
-## The purpose of this project is to practice command line and GitHub skills.
+# Directions
+Welcome to 
+In this game the main objective is to choose what you would like to do. However, the result may be unexpected.
 ### Click [here](home.md) to begin!
