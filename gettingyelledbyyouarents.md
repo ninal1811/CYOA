@@ -1,3 +1,0 @@
-## YOU HAVE DIED BECAUSE YOU MADE YOUR PARENTS MAD!!!
-
-### [Start Over](home.md)
