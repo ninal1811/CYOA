@@ -1,2 +1,2 @@
-## Do Homework
-#### [Get A Excellent Grade](getaexcellentgrade.md)
+# Do Homework
+### [Get A Excellent Grade](getaexcellentgrade.md)

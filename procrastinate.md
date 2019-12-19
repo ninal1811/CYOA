@@ -1,5 +1,5 @@
-## Procrastinating
+# Procrastinating
 ```Choose An Option```
-#### [Get A Failing Grade](getafailinggrade.md)
+### [Get A Failing Grade](getafailinggrade.md)
 ### OR
-#### [Getting Yelled By Your Parents](gettingyelledbyyouarents.md)
+### [Getting Yelled By Your Parents](gettingyelledbyyouarents.md)
