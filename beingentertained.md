@@ -1,0 +1,3 @@
+## YOU HAVE DIED BECAUSE YOU WERE NOT DOING YOUR HOMEWORK!!!
+
+### [Start Over](home.md)
