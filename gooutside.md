@@ -1,5 +1,5 @@
 ## Going Outside
-```Choose an event:```
+```Choose An event:```
 #### [Hang Out with Friends](hangoutwithfriends.md) 
 ### OR
 #### [Eat Food and Watch Movies](eatfoodandwatchmovies.md)
