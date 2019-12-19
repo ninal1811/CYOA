@@ -1,6 +1,6 @@
 ## Sports
 ```Choose A Sport```
-#### [BasketBall](basketball.md)
+#### [BasketBall](baskball.md)
 ### OR
 #### [Baseball](baseball.md)
 ### OR
