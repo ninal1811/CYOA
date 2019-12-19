@@ -1,5 +1,5 @@
 ## Doing Homework
 ```Choose An Option```
-#### [Procrastinate](procrastinate.md)
+### [Procrastinate](procrastinate.md)
 ### OR
-#### [Do Homework](homework.md)
+### [Do Homework](homework.md)

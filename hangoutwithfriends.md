@@ -1,5 +1,5 @@
 ## Hanging Out With Friends
-```Choose An Event```
+```Choose An Option```
 #### [Shopping](shopping.md)
 ### OR
 #### [](.md)
