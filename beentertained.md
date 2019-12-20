@@ -1,2 +1,2 @@
 # BEING ENTERTAINED
-### [BEING ENTERTAINED](beingentertained.md)
+### [Getting Yelled By Your Parents](gettingyelledbyyourparents.md)
