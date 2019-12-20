@@ -4,4 +4,4 @@ In this game the main objective is to choose what you would like to do. However,
 ### [Click here to begin!](home.md)
 
 ###### [Click Here To View My Profile](https://github.com/ninal1811/)
-![Organizer](Organizer.png)
+![Organizer](organizer)
