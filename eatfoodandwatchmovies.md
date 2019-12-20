@@ -1,5 +1,2 @@
-## Eating Food And Watching Movies
-```Choose An Option```
-#### [Eating Food](eatingfood.md)
-### OR
-#### [Watching Movies](watchingmovies.md)
+## YOU HAVE DIED BECAUSE YOU WASTED MONEY ON WATCHING MOVIES AND EATING FOOD!!!
+### [Start Over](home.md)
